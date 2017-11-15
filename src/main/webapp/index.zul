@@ -2,6 +2,7 @@
 	<window border="normal" title="Get ZK Up and Running">
 		<vlayout>
 			<a href="hello.zul">Hello</a>
+			<a href="searchMvc.zul">Search</a>
 		</vlayout>
 	</window>
 </zk>
